@@ -1,0 +1,1 @@
+export const url = "https://my-json-server.typicode.com/manuelmebm/testing-hotel-api/"

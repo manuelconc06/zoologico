@@ -1,0 +1,166 @@
+.btnAdd {
+  padding: 20px;
+  text-align: center;
+}
+
+.btn-color {
+  border-color: blue !important;
+  color: white !important;
+  margin-bottom: 20px !important;
+  background: blue !important;
+}
+
+.style-card {
+  width: 90%;
+  margin: auto;
+  margin-bottom: 10px;
+  border-color: #0d6efd !important;
+  cursor: pointer;
+}
+
+.tittle {
+  text-align: center;
+  color: #0d6efd;
+  margin: 15px;
+}
+
+.form-msg {
+  border-color: #ced4da;
+  border-radius: 4px;
+}
+
+.mrg-comentarios {
+  margin-top: 50px;
+}
+
+.font-msg {
+  font-weight: bold;
+}
+
+.font-mrg {
+  margin-right: 12px;
+}
+
+.font-size-msg {
+  font-size: 13px;
+}
+
+.btn-resp {
+  margin-bottom: 20px;
+  margin-left: 14px;
+}
+
+.btn-font-size {
+  font-size: 12px;
+}
+
+.add-coment-tittle {
+  color: #0d6efd;
+}
+
+.coment-style {
+  margin-bottom: 20px;
+  /*  border: solid 1px #0d6efd;
+    padding: 10px; */
+}
+
+.card-respuest {
+  border-color: #51d842 !important;
+}
+
+.btn-respuesta {
+  color: #0d6efd !important;
+  background: white !important;
+  border: none !important;
+  text-decoration: underline !important;
+}
+
+.inic {
+  display: flex;
+  text-align: center;
+}
+
+.buscar {
+  display: flex;
+  /* border: 1px solid #6c757d; */
+  border-radius: 6px;
+}
+
+.input-style {
+  border-radius: 5px;
+  /* border-right: 0px; */
+  width: 100%;
+  border-color: #6c757d;
+}
+
+.btn-buscar {
+  width: 100%;
+  background: white !important;
+  color: #212529 !important;
+  border-color: #dee2e6 !important;
+  text-align: inherit !important;
+  padding: 14px !important;
+}
+
+.modal-box {
+  position: absolute;
+  min-width: 300px;
+  max-width: 400px;
+  background-color: white;
+  border: 2px solid #000;
+  box-shadow: 10px 5px 5px black;
+  padding: 16px 32px 24px;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 100%;
+  /*  height: 50%; */
+  border-radius: 4px;
+}
+
+.btn-color-close {
+  border-color: #343a40 !important;
+  color: white !important;
+  margin-bottom: 20px !important;
+  background: #343a40 !important;
+}
+
+.card-pad {
+  text-align: center;
+  width: 50%;
+  border: 1px solid #4c7efd;
+  padding: 8px;
+}
+.card-pad-two {
+  text-align: center;
+  width: 70%;
+  border: 1px solid #4c7efd;
+  padding: 4px;
+}
+.card-pad-msj {
+  width: 90%;
+  border: 1px solid #4c7efd;
+  padding: 8px;
+}
+
+.form-input {
+  font-family: system-ui;
+  padding: 10px;
+  background-color: var(--orange);
+  border: none;
+  border: 1px solid black;
+  border-radius: 10px;
+  outline: 0;
+  font-size: 1em;
+  flex-grow: 1;
+  transition: 0.2s;
+  width: 95% !important;
+  padding: 3px 0px 3px 2px !important;
+}
+
+.card-form {
+  border: 1px solid #212121;
+  border-radius: 6px;
+  padding: 4px;
+  margin-bottom: 10px;
+}
